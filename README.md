@@ -409,6 +409,7 @@ It can be useful to log into your local test website and see how the pages look 
 	applicant__account__username="applicant1")
 ```
 
+
 ### Creating Contribution Test Objects
 
 The following Django shell example creates a new Contribution object. It assumes you already have a pre-created ApplicantApproval referenced by the variable `applicant1` and a pre-created Project referenced by the variable `project`.
